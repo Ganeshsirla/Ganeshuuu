@@ -1,6 +1,5 @@
-# Ganeshuuu
-This is my website
-<!DOCTYPE html>
+# Ganeshsirla...
+Hi....This is my website
 <html lang="en">
 <head>
     <meta charset="UTF-8">
